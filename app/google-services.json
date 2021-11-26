@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064919347289",
+    "project_id": "a-safe-place-9fa15",
+    "storage_bucket": "a-safe-place-9fa15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064919347289:android:1a507ac0db7a95386d0148",
+        "android_client_info": {
+          "package_name": "com.example.asafeplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064919347289-2jsktpen3cml1tt6oqktggo3p210vnb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkO60jLZaPFnWlgeA1Of_tx4Lioca4EXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064919347289-2jsktpen3cml1tt6oqktggo3p210vnb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
